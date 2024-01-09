@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lightBlack">#F2000000</color>
+    <color name="projectcolor">#CE5476</color>
+    <color name="colorSelectedLabel">#CE5476</color>
+    <color name="colorUnselectedLabel">#E18DA4</color>
+    <color name="tabBar">#FFF3F4</color>
+
+    <color name="lightPink">#FACFD3</color>
+    <color name="lightGray">#EDFAF8F8</color>
+    <color name="lightGray1">#949494</color>
+    <color name="maroon">#DD2C56</color>
+    <color name="windowColor">#F8F8F8</color>
+    <color name="darkGreen">#1BB034</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#F12D2D</color>
+    <color name="yellow">#FFCC01</color>
+</resources>
